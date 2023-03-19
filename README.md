@@ -28,18 +28,9 @@ I'm Emmanuel Opel a Full Stack Web Developer . I Spend most of time thinking out
 - :email: opegude.n3t@gmail.com
 <br >
 
-
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-```
-<!--END_SECTION:waka-->
-
 #### Github Stats
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=opeCre8tivia&count_private=true&theme=gotham&hide=contribs)
+
+#### Auto Language Summary
+[![Lang Summary](https://github-readme-stats.vercel.app/api/top-langs/?username=opeCre8tivia)](https://github.com/opeCre8tivia/github-readme-stats)
