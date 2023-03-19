@@ -8,7 +8,7 @@ I'm Emmanuel Opel a Full Stack Web Developer . I Spend most of my time thinking 
 <!-- TODO: Add last video link -->
 
 - 🔭 Catch me thinking of the next big idea 
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- :computer:I have been coding for about `5 YEARS`
 - 🤔 I’m looking for an opportunity to work remotely on an enterprise project.
 - 📫 How to reach me: opegude.n3t@gmail.com.
 - 😄 Pronouns: opeCre8tivia, emmanuel opel.
