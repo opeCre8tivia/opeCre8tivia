@@ -9,9 +9,9 @@ I'm Emmanuel Opel a Full Stack Mobile and Web Developer . I Spend most of my tim
 
 - 🔭 Catch me thinking of the next big idea 
 - :computer:I have been coding for about `5 YEARS`
-- 🤔 I’m looking for an opportunity to work remotely on an enterprise project.
+- 🤔 Busy Building.
 - 📫 How to reach me: opegude.n3t@gmail.com.
-- 😄 Pronouns: opeCre8tivia, emmanuel opel.
+- 😄 Pronouns: Rabbi.
 - ⚡ Fun fact: I dream in code lol!.
 
 #### Top Technologies
@@ -24,7 +24,7 @@ I'm Emmanuel Opel a Full Stack Mobile and Web Developer . I Spend most of my tim
 <br />
 
 #### Opportunity
-- :paperclip: [My Portfolio](https://bit.ly/contactopel)
+- :paperclip: [My Portfolio](https://emmanuelopeldev.netlify.app)
 - :email: opegude.n3t@gmail.com
 <br >
 
