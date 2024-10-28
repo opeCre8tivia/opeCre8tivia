@@ -7,7 +7,7 @@ I'm Emmanuel Opel a Full Stack Mobile and Web Developer . I Spend most of my tim
 
 <!-- TODO: Add last video link -->
 
-- 🔭 Catch me thinking of the next big idea 
+- 🔭 Working on a big idea 
 - :computer:I have been coding for about `5 YEARS`
 - 🤔 Busy Building.
 - 📫 How to reach me: opegude.n3t@gmail.com.
