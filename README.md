@@ -8,7 +8,7 @@ I'm Emmanuel Opel a Full Stack Mobile and Web Developer
 <!-- TODO: Add last video link -->
 
 - 🔭 Working on a big idea 
-- :computer:I have been coding for about `5 YEARS`
+- :computer:I have been coding for over `5 YEARS`
 - 🤔 Busy Building.
 - 📫 How to reach me: opegude.n3t@gmail.com.
 - 😄 Pronouns: Rabbi.
